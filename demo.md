@@ -44,4 +44,17 @@ ___________
 <https://www.atleticodemadrid.com/>
 
 ## Imágenes
-![El mejor jugador](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.90min.com%2Fposts%2Fantoine-griezmann-end-up-mls-atletico-madrid-career&psig=AOvVaw3WpFWtz6KnPbb-L6gLI50C&ust=1696056080171000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiRprObz4EDFQAAAAAdAAAAABAE)
+![El mejor jugador](https://assets.laliga.com/squad/2023/t175/p76650/2048x2048/p76650_t175_2023_1_002_000.jpg)
+
+
+## Código
+
+    Esto es código
+~~~
+Aliquam at faucibus risus, bibendum pulvinar purus. Pellentesque a massa dictum, bibendum lacus sit amet, eleifend sapien. Praesent congue augue ultricies velit pulvinar egestas
+~~~
+
+También puedes añadir `código así`
+
+## Anular markdown
+De esta forma \*anulas markdown*.
